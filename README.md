@@ -5,6 +5,11 @@ This repository showcases my learning journey and continuous exploration in tech
 
 ---
 
+## English language
+- [speex C1.2 level in professional level english](./english_professional/English_C.12%20certificate.pdf)
+
+---
+
 ## 🤖 AI & Machine Learning  
 - [Intro to Computer Vision](./AI%20and%20Machine%20Learning/Intro%20to%20Computer%20Vision.pdf)
 
