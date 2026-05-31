@@ -6,7 +6,7 @@ This repository showcases my learning journey and continuous exploration in tech
 ---
 
 ## English language
-- [speex C1.2 level in professional level english](./english_professional/English_C.12%20certificate.pdf)
+- [speexx C1.2 level in professional level english](./english_professional/English_C.12%20certificate.pdf)
 
 ---
 
