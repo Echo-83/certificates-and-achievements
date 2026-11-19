@@ -7,16 +7,27 @@ This repository showcases my learning journey and continuous exploration in tech
 
 ## English language
 - [speexx C1.2 level in professional level english](./english_professional/English_C.12%20certificate.pdf)
+- [English for Engineering](./Engineering%20degree/rand%20certificate%20English%20for%20engineering.pdf)
 
 ---
 
 ## 🤖 AI & Machine Learning  
+- [AWS AI Programmer](./AI%20and%20Machine%20Learning/Aws%20AI%20programmer%20udacity.pdf)
+- [Google Introduction to AI](./AI%20and%20Machine%20Learning/Coursera_google_intro_to_AI.pdf)
+- [Hugging Face](./AI%20and%20Machine%20Learning/Coursera_hugging_face.pdf)
 - [Intro to Computer Vision](./AI%20and%20Machine%20Learning/Intro%20to%20Computer%20Vision.pdf)
+- [Learn the Latest Tech Skills](./AI%20and%20Machine%20Learning/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.pdf)
+- [AWS AI Program](./AI%20and%20Machine%20Learning/udacity_aws_program.pdf)
 
 ---
 
 ## ☁️ AWS Cloud  
 - [AWS Academy Cloud Foundations](./AWS%20cloud/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge.pdf)
+
+---
+
+## ☁️ Azure Cloud
+- [Azure Fundamentals](./azure/Azure%20Fundamentals.pdf)
 
 ---
 
@@ -36,10 +47,20 @@ This repository showcases my learning journey and continuous exploration in tech
 
 ---
 
-## 🎨 Front-End Design  
-- [HTML Certificate](./Front%20End%20design/HTML_certificate.png)  
-- [CSS Certificate](./Front%20End%20design/CSS_certificate.png)  
-- [JavaScript Certificate](./Front%20End%20design/javaScript_certificate.png)
+## 🗄️ Database & SQL
+- [SQL Certificate](./DataBase%20and%20SQL/SQLI0022529808189.png)
+
+---
+
+## 🎨 Full-Stack Development
+- [HTML Module Certificate](./Full-Stack-Development/HTML%20module%20certificate.pdf)
+- [JavaScript Certificate](./Full-Stack-Development/javaScript_certification.pdf)
+
+---
+
+## 🔀 Git & Version Control
+- [Git Certificate 1](./Git%20and%20Version%20control/CPE0134092913382%281%29.png)
+- [Git Certificate 2](./Git%20and%20Version%20control/CPE0468909208534.png)
 
 ---
 
@@ -60,7 +81,7 @@ This repository showcases my learning journey and continuous exploration in tech
 - [Coding for Efficiency](./Matlab/MATLAB%20Coding%20Practices%20for%20Efficiency%20and%20Performance.pdf)  
 - [MATLAB Onramp](./Matlab/MATLAB%20Onramp.pdf)  
 - [Optimization Onramp](./Matlab/Optimization%20Onramp%20certificate%20.pdf)  
-- [Tables in MATLAB](./Matlab/Tables%20(matlab%20course%20).pdf)  
+- [Tables in MATLAB](./Matlab/Tables%20%28matlab%20course%20%29.pdf)
 - [Control Systems](./Matlab/control%20system%20certificate.pdf)  
 - [Simscape](./Matlab/simscape.pdf)  
 - [Simulink Onramp](./Matlab/simulink%20onramp.pdf)
@@ -68,10 +89,16 @@ This repository showcases my learning journey and continuous exploration in tech
 ---
 
 ## 🐍 Python Development  
+- [Python Crash Course](./Python%20developer/Coursera_python_crash_course.pdf)
 - [Introduction to Python 2](./Python%20developer/Introduction%20to%20Python%202%20.pdf)  
 - [Python Developer](./Python%20developer/python%20developer.pdf)  
 - [Programming Basics](./Python%20developer/python%20programming%20basics.pdf)  
 - [Python Basics](./Python%20developer/python_basic%20certificate.pdf)
+
+---
+
+## 🌱 Self Improvement
+- [Self Improvement Certificate](./self%20improvement/Coursera%204FV98S7PO0II.pdf)
 
 ---
 
